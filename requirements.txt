@@ -1,0 +1,12 @@
+pandas
+plotly
+streamlit
+torch
+tensorflow==2.9.2
+keras==2.9.0
+Keras-Preprocessing==1.1.2
+deepmultilingualpunctuation
+sentencepiece
+transformers==4.25.1
+wordcloud
+matplotlib
